@@ -10,6 +10,8 @@ public class Alert
     }
     
   public void silppu() {
+    System.out.prinlnt("Kimmon muutos");
     Thread.sleep( Integer.parseInt(args[1]) * 1000); // Devissä muutos
   }
-  }
+
+}
