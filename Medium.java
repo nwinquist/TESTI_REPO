@@ -10,5 +10,6 @@ public class Alert
     }
     
   public void silppu() {
+    System.out.prinlnt("Kimmon muutos");
   }
   }
