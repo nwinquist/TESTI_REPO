@@ -8,4 +8,7 @@ public class Alert
     Runtime.getRuntime().exec( args[0] );
     Thread.sleep( Integer.parseInt(args[1]) * 12 ); // Optionaalinen muutos 1.2
     }
+    
+  public void silppu() {
+  }
   }
